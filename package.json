@@ -1,0 +1,23 @@
+{
+  "name": "websocket-load-generator",
+  "version": "1.0.0",
+  "description": "Tool to generate load over Websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danishfaizan/websocket-load-generator.git"
+  },
+  "keywords": [
+    "websocket",
+    "load"
+  ],
+  "author": "danish.faizan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danishfaizan/websocket-load-generator/issues"
+  },
+  "homepage": "https://github.com/danishfaizan/websocket-load-generator#readme"
+}
